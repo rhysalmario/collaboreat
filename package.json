@@ -1,5 +1,6 @@
 {
   "name": "collaboreat",
+  "homepage": "https://github.com/rhysalmario/collaboreat",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
